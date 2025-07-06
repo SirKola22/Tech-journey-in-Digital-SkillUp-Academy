@@ -56,7 +56,7 @@ Salary Count by Department and Region = COUNT('Employee'[Salary])`
 
 ##  Tools Used
 
-- Microsoft Power BI 
+- Microsoft Power BI [View Here](https://github.com/SirKola22/DIGITAL-SKILL-ACADEMY-DSA-Palmoria-Group-HR-Analysis-DSA-Data-Analysis-project/blob/main/DSA%20DATA%20ANALYSIS%20PROJECT%202025%20SUBMISSION.pbix) 
   - Custom Columns  
   - Conditional Formatting   
   - Charts & Graphs
